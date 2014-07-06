@@ -1,4 +1,4 @@
-// Standard function for the aREST API
+// Client for the node-aREST module
 
 // Send command via node-aREST
 function send(type, target, command, speed) {
